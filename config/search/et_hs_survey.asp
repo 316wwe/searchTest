@@ -102,7 +102,7 @@ function goNonameSet()
 				</tr>
 				
 				<tr>
-				<td height="22" bgcolor="#FBFBFB" style="padding-left:30;"><span style="font-size:12;">고등학교명 </span>&nbsp;&nbsp;<input name="hs" type="text" style='border:1 solid #DDDBDE; color=#676767 font-size:9pt; background-color:#ffffff' value="<%=hs%>" size="24" style="ime-mode:active;font-size:12;">
+				<td height="22" bgcolor="#FBFBFB" style="padding-left:30;"><span style="font-size:12;">HischoolName</span>&nbsp;&nbsp;<input name="hs" type="text" style='border:1 solid #DDDBDE; color=#676767 font-size:9pt; background-color:#ffffff' value="<%=hs%>" size="24" style="ime-mode:active;font-size:12;">
 				&nbsp;<a href="javascript:goSearch(document.forms[0]);" onFocus="this.blur();"><img src="images/btn_search02.gif" width="37" height="20" border="0" align="absmiddle"></a>
 
 				
